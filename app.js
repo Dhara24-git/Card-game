@@ -65,3 +65,4 @@ function saveNotesToStorage(notes) {
 
 // Render notes on page load
 document.addEventListener('DOMContentLoaded', renderNotes);
+
